@@ -70,10 +70,10 @@
    transition: 0.3s ease-in;
  }
  button:hover {
-   background-color: #ccc;
+   background-color: wheat;
    border: 2px solid red;
    color: black;
-   transition: 0.3s ease-out;
+   transition: 0.7s ease-out;
    cursor: pointer;
  }
  .textarea_control {
